@@ -1,5 +1,6 @@
-### Hi there 👋
-### 🔭
+### Hola, soy Juan Esteban Mazo 👋
+### Desarrollador de Software desde el año 2018
+### Me gusta trabajar con Java, Kotlin, Nodejs y espero trabajar con Python.
 
 <!--
 **Juesmahe1512/Juesmahe1512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
